@@ -1,0 +1,6 @@
+Last Name: Mojica
+First Name: Sean
+Age: 20
+Contact Number: 09674321485
+Course: BSIT-BA
+------------------------------
